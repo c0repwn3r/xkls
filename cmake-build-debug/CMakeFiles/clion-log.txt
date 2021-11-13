@@ -1,0 +1,4 @@
+/home/core/jetbrains/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/core/CLionProjects/xkls
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/core/CLionProjects/xkls/cmake-build-debug
